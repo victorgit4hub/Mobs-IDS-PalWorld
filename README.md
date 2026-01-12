@@ -1,4 +1,4 @@
-![Alt text](([https://example.com/image.png](https://i.pinimg.com/736x/22/a2/67/22a267699325a8e7b579c0265a5e6920.jpg))
+![Palworld Logo](https://raw.githubusercontent.com/user/repo/main/images/palworld.png)
 # Palworld MOB IDs for Admin Commands
 
 This repository contains a reference list of **MOB IDs** used in **Palworld**.  
